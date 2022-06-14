@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+
+        <Compile Include="Actor\PrimitiveTypes.fs"/>
+        <Compile Include="Actor\OutputActor.fs"/>
+        <Compile Include="Actor\ProjectActor.fs"/>
+        <Compile Include="Actor\AccountActor.fs"/>
+        <Compile Include="Actor\AccountsActor.fs"/>
+        <Compile Include="Actor\InputActor.fs"/>
+        <Compile Include="Program.fs"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Akka" Version="1.4.39"/>
+        <PackageReference Include="Akka.FSharp" Version="1.4.39"/>
+    </ItemGroup>
+
+</Project>

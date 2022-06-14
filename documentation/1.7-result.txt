@@ -1,0 +1,68 @@
+﻿GpxData:
+Bound1: Lat: 27.670990024, Lon: 86.709499005, Ele: 0
+Bound2: Lat: 28.000011994, Lon: 86.849414008, Ele: 0
+AvgDistance: 8.780466379500368 km
+
+Day 01: Sukhe to Lukla
+Gained elevation: 414.30999999999676 m
+Total distance: 4.882837465948833 km
+
+Day 02: Lukla to Monjo
+Gained elevation: 1466.900000000001 m
+Total distance: 13.417092107849905 km
+
+Day 03: Monjo to Namche Bazaar
+Gained elevation: 545.5500000000025 m
+Total distance: 6.003421998233144 km
+
+Day 05: Namche Bazaar to Tengboche
+Gained elevation: 879.0799999999986 m
+Total distance: 10.289858655491948 km
+
+Day 06: Tengboche Geocache
+Gained elevation: 824.8499999999935 m
+Total distance: 4.425987912449099 km
+
+Day 07: Tengboche to Pheriche
+Gained elevation: 1371.019999999994 m
+Total distance: 12.05998607231252 km
+
+Day 08: Pheriche to Dingboche
+Gained elevation: 532.4999999999945 m
+Total distance: 4.245156272414717 km
+
+Day 09: Dingboche to Lobuche
+Gained elevation: 1014.599999999994 m
+Total distance: 10.978788771303796 km
+
+Day 12a: Lobuche to Gorak Shep
+Gained elevation: 881.0000000000055 m
+Total distance: 5.799001674540078 km
+
+Day 12b: Gorak Shep to Kala Pattar
+Gained elevation: 1125.7500000000045 m
+Total distance: 5.368041496941955 km
+
+Day 13: Gorak Shep to Everest Base Camp
+Gained elevation: 934.4699999999966 m
+Total distance: 7.098520371109907 km
+
+Day 14a: Gorak Shep to Lobuche
+Gained elevation: 680.6899999999978 m
+Total distance: 4.639068536022073 km
+
+Day 14b: Lobuche to Pheriche
+Gained elevation: 894.9899999999934 m
+Total distance: 7.7517282450356 km
+
+Day 15: Pheriche to Tengboche
+Gained elevation: 1162.799999999998 m
+Total distance: 10.14424496921756 km
+
+Day 16: Tengboche to Namche Bazaar
+Gained elevation: 1300.5700000000015 m
+Total distance: 14.073159082676717 km
+
+Day 17: Namche Bazaar to Lukla
+Gained elevation: 1530.5599999999972 m
+Total distance: 19.310568440458045 km
